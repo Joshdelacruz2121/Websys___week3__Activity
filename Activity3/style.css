@@ -1,0 +1,30 @@
+body{
+    padding: 25px;
+  }
+  
+  body {
+    margin: 20px;
+    font-family: Arial;
+  }
+  
+  h1 {
+    font-family: Open-Sans;
+  }
+  
+  img{
+    position: absolute;
+    margin: 8%;
+    border: 1px solid #ccc;
+    top: 0;
+    right: 0;
+    width: 120px;
+  }
+  
+  div + h1 {
+    padding: 10px;
+  }
+  
+  p {
+    width: 100%;
+    text-align: justify;
+  }
